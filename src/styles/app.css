@@ -1,0 +1,7 @@
+@layer base{
+    @font-face {
+        font-family: 'Retrovert';
+        src: url('/font/Retrovert.ttf'),local('Retrovert'),local('retrovert') ,format('ttf');
+        font-weight: normal;
+    }
+}
